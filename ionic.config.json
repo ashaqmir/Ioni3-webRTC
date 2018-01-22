@@ -1,0 +1,8 @@
+{
+  "name": "apiRTC",
+  "app_id": "62b40da6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
